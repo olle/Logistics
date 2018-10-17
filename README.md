@@ -30,17 +30,32 @@ And more. It's up to you, so join in on the fun!
 
 Using `Logistics` as a library in your project, means simply including it as a 
 Maven dependency. We suggest that you look at the fabulous project
-[Jitpack][100], to quickly get started.
+[Jitpack][100], to quickly get started. Add the repository to your `pom.xml`
+file:
 
   [100]: https://jitpack.io
 
 ```xml
+<repositories>
+  <repository>
+    <id>jitpack.io</id>
+    <url>https://jitpack.io</url>
+  </repository>
+</repositories>
+```
+
+Then add the `Logistics` dependency:
+
+```xml
 <dependency>
-  <groupId>net.contargo</groupId>
-  <artifactId>contargo-domain</artifactId>
-  <version>LATEST</version>
+  <groupId>com.github.olle</groupId>
+  <artifactId>Logistics</artifactId>
+  <version>[VERSION]</version>
 </dependency>
 ```
+
+Replacing `[VERSION]` with a commit, or tag id (or for the latest snapshot
+version `-SNAPSHOT`).
 
 Now you should be good to go for tagging types or linking to the
 domain definitions (interfaces) from your source code.
