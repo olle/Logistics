@@ -9,7 +9,7 @@ package com.studiomediatech.logistics;
  *
  * <p>In german {@link LKW}.</p>
  *
- * @author  Olle Törnström - toernstroem@synyx.de
+ * @author  Olle Törnström
  * @see  Fleet
  */
 public interface Truck {

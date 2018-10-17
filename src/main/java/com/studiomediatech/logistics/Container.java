@@ -5,7 +5,7 @@ package com.studiomediatech.logistics;
  *
  * <p>Also in german: {@link Container}.</p>
  *
- * @author  Olle Törnström - toernstroem@synyx.de
+ * @author  Olle Törnström
  */
 public interface Container {
 }

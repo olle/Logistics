@@ -9,7 +9,7 @@ package com.studiomediatech.logistics;
  *
  * <p>In german {@link BenutzerProfil}.</p>
  *
- * @author  Olle Törnström - toernstroem@synyx.de
+ * @author  Olle Törnström
  * @see  User
  */
 public interface Profile {

@@ -13,7 +13,7 @@ import com.studiomediatech.logistics.Terminal;
  * reference documentation, that is easy to use for developers. Since almost all IDE and modern Java editors support
  * type lookup, developers may navigation the referred types using their favorite tools.</p>
  *
- * @author  Olle Törnström - toernstroem@synyx.de
+ * @author  Olle Törnström
  * @since  0.0.1
  */
 public class Example {
@@ -25,7 +25,7 @@ public class Example {
      * <p>This would also yield the benefit of a more generalized reasoning across applications and solutions, about how
      * they map to the core domain aspects.</p>
      *
-     * @author  Olle Törnström - toernstroem@synyx.de
+     * @author  Olle Törnström
      * @since  0.0.1
      */
     public class Unit implements Container {

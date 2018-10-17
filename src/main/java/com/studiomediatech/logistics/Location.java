@@ -5,7 +5,7 @@ package com.studiomediatech.logistics;
  *
  * <p>In german {@link Standort}</p>
  *
- * @author  Olle Törnström - toernstroem@synyx.de
+ * @author  Olle Törnström
  */
 public interface Location {
 }

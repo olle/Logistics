@@ -6,7 +6,7 @@ package com.studiomediatech.logistics;
  *
  * <p>In german {@link Benachrichtigung}.</p>
  *
- * @author  Olle Törnström - toernstroem@synyx.de
+ * @author  Olle Törnström
  */
 public interface Notification {
 }

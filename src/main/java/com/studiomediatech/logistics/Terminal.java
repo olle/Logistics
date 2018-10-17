@@ -14,7 +14,7 @@ package com.studiomediatech.logistics;
  *
  * <p>Further information: <a href="http://www.contargo.net/de/terminals/">Contargo terminals</a></p>
  *
- * @author  Olle Törnström - toernstroem@synyx.de
+ * @author  Olle Törnström
  */
 public interface Terminal {
 }
