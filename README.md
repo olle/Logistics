@@ -1,11 +1,11 @@
 Contargo Business Domain
 ========================
 
-[![Build Status](https://travis-ci.org/Contargo/contargo-domain.svg?branch=master)](https://travis-ci.org/Contargo/contargo-domain)
+**FORKED: This fork will, from now on diverge from the original 
+  _contargo-domain_ project, with the intention to keep away from any type of
+  domain implementation, and remain just a business domain definition library.**
 
-**WIP: We're currently working on deploying to the Sonatype OSS repository. In the mean time, please consider building and deploying the project locally (`mvn install`).**
-
-This is a small project aimed at defining the Contargo and COLA business
+This is a small project aimed at defining a logistics business
 domain, in a structured way. The goal is to provide a business language
 (primarily to use for writing/speaking) in a format that is both
 familiar and useful to Java developers - **a Java library, with a `jar`
@@ -28,8 +28,11 @@ And more. It's up to you, so join in on the fun!
 
 ## Getting started
 
-Using the `contargo-domain` as a library in your project, means
-simply including it as a Maven dependency:
+Using `Logistics` as a library in your project, means simply including it as a 
+Maven dependency. We suggest that you look at the fabulous project
+[Jitpack][100], to quickly get started.
+
+  [100]: https://jitpack.io
 
 ```xml
 <dependency>
@@ -56,7 +59,8 @@ document in any web browser.
 
 ## License
 
-This project is distributed under the Apache 2.0 License. The full set of
-terms and conditions can be seen in the [LICENSE](LICENSE.txt) file.
+This project is distributed under the Apache 2.0 License, just as the original
+project. The full set of terms and conditions can be seen in the 
+[LICENSE](LICENSE.txt) file.
 
 Happy hacking!
