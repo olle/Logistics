@@ -1,5 +1,5 @@
-Contargo Business Domain
-========================
+Logistics Business Domain
+=========================
 
 **FORKED: This fork will, from now on diverge from the original 
   _contargo-domain_ project, with the intention to keep away from any type of
