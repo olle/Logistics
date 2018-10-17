@@ -1,4 +1,4 @@
-package net.contargo.domain;
+package com.studiomediatech.logistics;
 
 /**
  * A standardized unit of containment, used for shipping of goods.

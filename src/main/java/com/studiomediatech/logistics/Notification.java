@@ -1,4 +1,4 @@
-package net.contargo.domain;
+package com.studiomediatech.logistics;
 
 /**
  * System information that is published with the intent to be directed to a group or user, with the purpose of informing

@@ -1,4 +1,4 @@
-package net.contargo.domain;
+package com.studiomediatech.logistics;
 
 /**
  * A group of vehicles, working under the same direction.

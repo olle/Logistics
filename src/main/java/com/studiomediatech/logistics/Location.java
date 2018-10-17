@@ -1,4 +1,4 @@
-package net.contargo.domain;
+package com.studiomediatech.logistics;
 
 /**
  * A defined, and identifiable, {@link Site}, typically at some physical location.

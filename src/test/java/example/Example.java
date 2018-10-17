@@ -1,9 +1,9 @@
 package example;
 
-import net.contargo.domain.Container;
-import net.contargo.domain.Location;
-import net.contargo.domain.Site;
-import net.contargo.domain.Terminal;
+import com.studiomediatech.logistics.Container;
+import com.studiomediatech.logistics.Location;
+import com.studiomediatech.logistics.Site;
+import com.studiomediatech.logistics.Terminal;
 
 
 /**

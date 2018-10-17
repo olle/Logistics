@@ -1,4 +1,4 @@
-package net.contargo.domain;
+package com.studiomediatech.logistics;
 
 /**
  * A port or harbor - an important junction in trans-shipment logistics.

@@ -1,4 +1,4 @@
-package net.contargo.domain;
+package com.studiomediatech.logistics;
 
 /**
  * Describing a property of a physical company location - or its <i>modality</i>, with regards to the logistic

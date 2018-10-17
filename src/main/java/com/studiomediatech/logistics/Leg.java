@@ -1,4 +1,4 @@
-package net.contargo.domain;
+package com.studiomediatech.logistics;
 
 /**
  * Defines the transportation from a well defined starting point or source to a end destination, performed by some means

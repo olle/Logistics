@@ -4,4 +4,4 @@
  *
  * @author  Olle Törnström - toernstroem@synyx.de
  */
-package net.contargo.domain;
+package com.studiomediatech.logistics;
