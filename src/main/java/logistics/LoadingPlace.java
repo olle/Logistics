@@ -1,7 +1,7 @@
 package logistics;
 
 /**
- * A place where goods are loaded onto a mode of transportation.
+ * A place where goods are loaded onto, or unloaded from, some mode of transportation.
  *
  * <p>This is most often an external {@link Site} and {@link Location}, such as that of a customer or partner, where
  * goods are fetched from or brought to, either at the end or beginning of a transportation order. The time spent (how

@@ -4,9 +4,9 @@ package logistics;
  * Describing a property of a physical company location - or its <i>modality</i>, with regards to the logistic
  * capability it provides.
  *
- * <p>Site information generally describes either a {@link Terminal}, {@link Seaport} or a {@link LoadingPlace}, not
- * because of its {@link Location}, but because of it's function in a given context - for example in a business
- * event.</p>
+ * <p>Site information generally describes either a {@link Terminal terminal}, {@link Seaport seaport} or a
+ * {@link LoadingPlace loading place}, not because of its {@link Location location}, but because of it's function in a
+ * given context - for example in a business event.</p>
  *
  * <p>In german {@link Standortart}.</p>
  *

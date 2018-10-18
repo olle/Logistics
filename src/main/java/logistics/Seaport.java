@@ -4,8 +4,7 @@ package logistics;
  * A port or harbor - an important junction in trans-shipment logistics.
  *
  * <p>In our domain, since we're generally concerned with multi-modal transportation on route <em>to</em> a
- * {@link Seaport}, it is the destination or staring point of a transportation order. Contargo does not, themselves,
- * carry out overseas transportation, nor do they have any sea going vessels.</p>
+ * {@link Seaport}, it is the destination or staring point of a transportation order.</p>
  *
  * <p>In german {@link Seehafen}.</p>
  *
