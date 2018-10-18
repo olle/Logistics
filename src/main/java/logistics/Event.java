@@ -1,4 +1,4 @@
-package com.studiomediatech.logistics;
+package logistics;
 
 /**
  * A happening, pertaining to some business occasion, typically posted by a component of the system that is published

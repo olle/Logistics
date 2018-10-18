@@ -1,4 +1,4 @@
-package com.studiomediatech.logistics;
+package logistics;
 
 /**
  * A port or harbor - an important junction in trans-shipment logistics.

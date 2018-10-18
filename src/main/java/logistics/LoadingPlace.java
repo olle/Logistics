@@ -1,4 +1,4 @@
-package com.studiomediatech.logistics;
+package logistics;
 
 /**
  * A place where goods are loaded onto a mode of transportation.

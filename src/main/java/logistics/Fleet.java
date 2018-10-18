@@ -1,4 +1,4 @@
-package com.studiomediatech.logistics;
+package logistics;
 
 /**
  * A group of vehicles, working under the same direction.

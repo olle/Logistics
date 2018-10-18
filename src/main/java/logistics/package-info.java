@@ -4,4 +4,4 @@
  *
  * @author  Olle Törnström
  */
-package com.studiomediatech.logistics;
+package logistics;

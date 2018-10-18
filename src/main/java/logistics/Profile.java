@@ -1,4 +1,4 @@
-package com.studiomediatech.logistics;
+package logistics;
 
 /**
  * A rich representation of a {@link User user} in the COLA system.

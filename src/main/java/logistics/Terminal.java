@@ -1,4 +1,4 @@
-package com.studiomediatech.logistics;
+package logistics;
 
 /**
  * A station, or junction, along a transport route - typically along the inland (<em>hinterland</em>) waterways, rivers

@@ -1,4 +1,4 @@
-package com.studiomediatech.logistics;
+package logistics;
 
 /**
  * Describing a property of a physical company location - or its <i>modality</i>, with regards to the logistic

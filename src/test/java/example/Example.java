@@ -1,9 +1,9 @@
 package example;
 
-import com.studiomediatech.logistics.Container;
-import com.studiomediatech.logistics.Location;
-import com.studiomediatech.logistics.Site;
-import com.studiomediatech.logistics.Terminal;
+import logistics.Container;
+import logistics.Location;
+import logistics.Site;
+import logistics.Terminal;
 
 
 /**

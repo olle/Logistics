@@ -1,4 +1,4 @@
-package com.studiomediatech.logistics;
+package logistics;
 
 /**
  * A lorry or other type of heavy goods vehicle (HGV).

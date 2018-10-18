@@ -1,4 +1,4 @@
-package com.studiomediatech.logistics;
+package logistics;
 
 /**
  * A business entity, that typically acts as a bound or aggregate of resources etc. In this context also a physical
