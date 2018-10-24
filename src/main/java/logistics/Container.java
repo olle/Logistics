@@ -1,7 +1,7 @@
 package logistics;
 
 /**
- * A standardized unit of containment, used for shipping of goods.
+ * A standardized {@link LoadingUnit unit} of containment, used for shipping of goods.
  *
  * <p>Also in german: {@link Container}.</p>
  *
